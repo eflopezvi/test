@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn CI/C0
+          Learn CI-C0
         </a>
       </header>
     </div>
